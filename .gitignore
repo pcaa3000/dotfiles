@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+!.gitignore
+
+!.bashrc
+!.config
+!.git-prompt.sh
+!.tmux/
+
