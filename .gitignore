@@ -6,4 +6,5 @@
 !.config
 !.git-prompt.sh
 !.tmux/
-
+!.p10k.zsh
+!.zshrc
